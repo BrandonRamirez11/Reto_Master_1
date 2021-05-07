@@ -38,3 +38,4 @@ Descubre comunicación nos dice:
 
 >Un desarrollador Back end debe tener amplios conocimientos de los siguientes lenguajes: frameworks y los tipos de base de datos. No siendo necesario conocer todos los lenguajes pero sí entender y saber trabajar con algunos de ellos.
 >ASP.NET , PHP, Python, Ruby, Node.js, Java, MySQL, SQL Server, PostgreSQL, Oracle, MongoDB.
+![descubre comunicación](https://descubrecomunicacion.com/wp-content/uploads/2019/07/forndend-backend-post2.jpg)
