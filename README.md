@@ -7,6 +7,18 @@
 
 >## En este documento se abordan los conceptos de esta semana relacionados con la **INTELIGENCIA ARTIFICIAL**
 
+- ## **Hardware**
+
+Conjunto de elementos físicos o materiales que constituyen una computadora o un sistema informático.
+
+![](https://s1.significados.com/foto/hardware.jpg)
+
+- ## **Software**
+
+Conjunto de programas y rutinas que permiten a la computadora realizar determinadas tareas.
+
+![](https://lh3.googleusercontent.com/proxy/IOLq1LigW3LCLnR0Ci4Knbzg6wq3zRaBRE6WhYkTmtau1ykiscJhWWYJ---C_ZSXdjx2T47IP0IT3t2CnCHn3KIMEMcck9GjOeY5i7-8HPgxYF7f1gIoxmnL)
+
 - ## **¿Cómo funciona el internet?**
 
 Internet es la columna vertebral de la Web, la infraestructura técnica que la hace posible. En lo más básico, Internet es una gran red de computadoras que se comunican simultáneamente.
