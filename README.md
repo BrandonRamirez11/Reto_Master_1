@@ -71,7 +71,7 @@ Como puedes notar, cuando navegamos por la web con un navegador, normalmente uti
 
 - ## **Frontend y Backend**
 
-### **Descubre comunicación nos dice:**
+Descubre comunicación nos dice:
 
 ![](https://descubrecomunicacion.com/wp-content/uploads/2019/07/forndend-backend-post2.jpg)
 
