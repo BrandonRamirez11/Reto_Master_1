@@ -1,9 +1,9 @@
 # INTELIGENCIA ARTIFICIAL
 ***Integrantes y colaboradores:***
-- Bradon Ramírez Vilegas.
-- Alvaro Prado Bracamontes.
--  Sergio Raziel  Sanchez Cortez.
--  Hernández León Juan Armando.
+- Hernández León Juan Armando
+- Prado Bracamontes Álvaro
+- Ramirez Villegas Brandon
+- Sanchez Cortes Sergio Raziel
 
 >## En este documento se abordan los conceptos de esta semana relacionados con la **INTELIGENCIA ARTIFICIAL**
 
