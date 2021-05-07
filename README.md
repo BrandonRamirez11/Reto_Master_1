@@ -5,7 +5,7 @@
 -  Sergio Raziel  Sanchez Cortez.
 -  Hernández León Juan Armando.
 
->## En este documento se abordan los concetos de esta semana relacionados con la **INTELIGENCIA ARTIFICIAL**
+>## En este documento se abordan los conceptos de esta semana relacionados con la **INTELIGENCIA ARTIFICIAL**
 
 - ## **¿Cómo funciona el internet?**
 
