@@ -101,16 +101,23 @@ ASP.NET , PHP, Python, Ruby, Node.js, Java, MySQL, SQL Server, PostgreSQL, Oracl
 
 Por otro lado, un desarrollador Full Stack es el encargado de manejar cada uno de los aspectos relacionados con la creación y el mantenimiento de una aplicación web. Para ello es fundamental que el desarrollador Full Stack tenga conocimientos en desarrollo Front-End y Back-End además de manejar diferentes sistemas operativos y lenguajes de programación.
 
-### **IasS**
+### **IasS (infraestructura como servicio) **
 
 Es una oferta de computación en nube en la que un proveedor proporciona a los usuarios acceso a recursos informáticos, tales como: servidores, almacenamiento y redes. Las organizaciones utilizan sus propias plataformas y aplicaciones dentro de la infraestructura de un proveedor de servicios
 
-### **PasS**
+### **PasS (Plafora como servicio)**
 
 Es un entorno de desarrollo e implementación completo en la nube, con recursos que permiten entregar todo, desde aplicaciones sencillas basadas en la nube hasta aplicaciones empresariales sofisticadas habilitadas para la nube.
 
-### **SasS**
+### **SasS (Software como servicio)**
 
 Es una forma de disponibilizar softwares y soluciones de tecnología por medio de la internet, como un servicio. Con ese modelo, su empresa no necesita instalar, mantener y actualizar hardwares y softwares. El acceso es fácil y simples: solo es necesario conexión con la internet.
+
+
+### **Iot*
+
+El Internet de las cosas (IoT) es un nombre para la colección agregada de dispositivos habilitados para red, excluyendo los ordenadores tradicionales como computadoras portátiles y servidores. Los tipos de conexiones de red pueden incluir conexiones Wi-Fi, conexiones Bluetooth y comunicación de campo cercano (NFC). El IoT incluye dispositivos como electrodomésticos "inteligentes", como refrigeradores y termostatos; sistemas de seguridad para el hogar; periféricos informáticos, como cámaras web e impresoras; tecnología wearable,como Apple Watches y Fitbits; routers; y dispositivos de altavoces inteligentes, como Amazon Echo y Google Home.
+
+![](https://www.how2shout.com/wp-content/uploads/2018/10/What-is-internet-of-things-IOT.png)
 
 
