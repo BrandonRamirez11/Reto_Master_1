@@ -119,5 +119,26 @@ Es una forma de disponibilizar softwares y soluciones de tecnología por medio d
 El Internet de las cosas (IoT) es un nombre para la colección agregada de dispositivos habilitados para red, excluyendo los ordenadores tradicionales como computadoras portátiles y servidores. Los tipos de conexiones de red pueden incluir conexiones Wi-Fi, conexiones Bluetooth y comunicación de campo cercano (NFC). El IoT incluye dispositivos como electrodomésticos "inteligentes", como refrigeradores y termostatos; sistemas de seguridad para el hogar; periféricos informáticos, como cámaras web e impresoras; tecnología wearable,como Apple Watches y Fitbits; routers; y dispositivos de altavoces inteligentes, como Amazon Echo y Google Home.
 
 ![](https://www.how2shout.com/wp-content/uploads/2018/10/What-is-internet-of-things-IOT.png)
+### **BIG DATA**
+Big data es un término que describe el gran volumen de datos – estructurados y no estructurados – que inundan una empresa todos los días. Pero no es la cantidad de datos lo importante. Lo que importa es lo que las organizaciones hacen con los datos. El big data puede ser analizado para obtener insights que conlleven a mejores decisiones y acciones de negocios estratégicas.
 
+![image](https://user-images.githubusercontent.com/83653403/117557390-01d00800-b038-11eb-9b48-a6558d59a3af.png)
 
+***Volumen*** 
+Las organizaciones recopilan datos de diversas fuentes, como transacciones comerciales, dispositivos inteligentes (IO), equipo industrial, vídeos, medios sociales y más. En el pasado, su almacenamiento habría sido un problema - pero el almacenamiento más barato en plataformas como los data lakes y el Hadoop han aliviado la carga.
+
+![image](https://user-images.githubusercontent.com/83653403/117557421-48bdfd80-b038-11eb-8eff-311c3c4ddf3d.png)
+
+***Velocidad*** 
+Con el crecimiento del Internet de las Cosas, los datos llegan a las empresas a una velocidad sin precedentes y deben ser manejados de manera oportuna. Las etiquetas RFID, los sensores y los medidores inteligentes están impulsando la necesidad de manejar estos torrentes de datos en tiempo casi real.
+
+![image](https://user-images.githubusercontent.com/83653403/117557450-989cc480-b038-11eb-8015-f4c103b49799.png)
+
+***Variedad***
+Los datos se presentan en todo tipo de formatos: desde datos numéricos estructurados en bases de datos tradicionales hasta documentos de texto no estructurados, correos electrónicos, vídeos, audios, datos de teletipo y transacciones financieras.
+***Variabilidad***
+Además de las crecientes velocidades y variedades de datos, los flujos de datos son impredecibles, cambian a menudo y varían mucho. Es un reto, pero las empresas necesitan saber cuándo algo está de moda en los medios sociales, y cómo gestionar los picos de carga de datos diarios, estacionales y desencadenados por eventos.
+***Veracidad***
+La veracidad se refiere a la calidad de los datos. Debido a que los datos provienen de tantas fuentes diferentes, es difícil vincular, comparar, limpiar y transformar los datos a través de los sistemas. Las empresas necesitan conectar y correlacionar las relaciones, las jerarquías y los múltiples vínculos de datos. De lo contrario, sus datos pueden salirse de control rápidamente.
+
+![](![image](https://user-images.githubusercontent.com/83653403/117557381-ec5ade00-b037-11eb-9ad8-03b84646aec5.png))
